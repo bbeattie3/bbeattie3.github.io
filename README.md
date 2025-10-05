@@ -26,7 +26,7 @@
     <li style="font-size: 12pt;">Expanded their business with our reliable services, increasing revenue by 30%.</li>
 </ol>
 
-<img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1350/https://www.thanx.com/wp-content/uploads/2019/02/thanx-full_service_restaurant_guide_to_customer_engagement-hero.jpg style="width:400px; height:auto; border:2.5px solid #1e88e5;">
+<img src=PurdueP.png" alt="PurdueP" style="width:400px; height:auto; border:2.5px solid #1e88e5;">
 
 <p style="font-size: 14pt; font-family: 'Times New Roman', serif;">For more insights into the foodservice industry, visit <a href="https://www.foodbusinessnews.net/" target="_blank" style="color:#1e88e5;">Food Business News</a>.</p>
 
