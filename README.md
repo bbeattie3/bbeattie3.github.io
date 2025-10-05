@@ -25,7 +25,7 @@
     <li style="font-size: 12pt;">Expanded their business with our reliable services, increasing revenue by 30%.</li>
 </ol>
 
-<img src=img/thanx-full_service_restaurant_guide_to_customer_engagement-hero.jpg" alt="Happy customers dining at a restaraunt" style="width:450px; height:300px; border:2.5px solid #1e88e5;">
+<img src="img/thanx-full_service_restaurant_guide_to_customer_engagement-hero.jpg" alt="Happy customers dining at a restaraunt" style="width:450px; height:300px; border:2.5px solid #1e88e5;">
 
 <p style="font-size: 14pt; font-family: 'Times New Roman', serif;">For more insights into the foodservice industry, visit <a href="https://www.foodbusinessnews.net/" target="_blank" style="color:#1e88e5;">Food Business News</a>.</p>
 
