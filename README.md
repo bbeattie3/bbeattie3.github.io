@@ -31,7 +31,7 @@
 
 <p style="font-size: 14pt;">For inquiries about our testimonials or to share your own story, email me at <a href="mailto:bbeattie@purdue.edu" style="color:#503FD3;">bbeattie@purdue.edu</a>.</p>
 
-<p style="font-size: 14pt;">Download our <a href="Project" download style="color:#503FD3;">Customer Testimonials PDF</a> for more stories.</p>
+<p style="font-size: 14pt;">Download our <a href="Project.pdf" download style="color:#503FD3;">Customer Testimonials PDF</a> for more stories.</p>
 
 <footer>
     <p id="lastModified" style="font-size:small; color: gray;"></p>
