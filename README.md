@@ -27,7 +27,7 @@
 
 <img src="https://bbeattie3.github.io/thanx-full_service_restaurant_guide_to_customer_engagement-hero.jpg" alt="Happy customers dining at a restaraunt" style="width:450px; height:300px; border:2.5px solid #1e88e5;">
 
-<p style="font-size: 14pt; font-family: 'Times New Roman', serif;">For more insights into the foodservice industry, visit <a href="https://www.foodbusinessnews.net/" target="_blank" style="color:#1e88e5;">Food Business News</a>.</p>
+<p style="font-size: 14pt; font-family: 'Times New Roman', serif;">For more insights on the benefits of the food service industry, visit <a href="https://www.gobble.com/blog/benefits-of-meal-delivery-services/?srsltid=AfmBOopLfI9Tyb5jC67K-anoCkhe88ZHoLdlNKqcn3qzBjUPUD_-JwZn/" target="_blank" style="color:#1e88e5;">Gobble</a>.</p>
 
 <p style="font-size: 14pt;">For inquiries about our testimonials or to share your own story, email me at <a href="mailto:bbeattie@purdue.edu" style="color:#503FD3;">bbeattie@purdue.edu</a>.</p>
 
